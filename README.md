@@ -15,5 +15,5 @@ https://mjellelab.shinyapps.io/miRNA-Survival-Myeloma/
 https://mjellelab.shinyapps.io/SHINY_mRNA_SURVIVAL/
 
 ### miRNA-mRNA correlation
-https://mjellelab.shinyapps.io/SHINY_miRNA_mRNA_Correlation/
+https://mjellelab.shinyapps.io/SHINY_MicroRNA_mRNA_Correlation/
 
