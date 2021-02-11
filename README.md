@@ -9,7 +9,7 @@ https://mjellelab.shinyapps.io/SHINY_mRNA_CLINICAL/
 http://mjellelab.shinyapps.io/SHINY_miRNA_CLINICAL
 
 ### MicroRNA and survival in Multiple Myeloma
-https://mjellelab.shinyapps.io/miRNA-Survival-Myeloma/
+https://mjellelab.shinyapps.io/MiRNA-Survival-Myeloma/
 
 ### Gene Expression and survival in Multiple Myeloma
 https://mjellelab.shinyapps.io/SHINY_mRNA_SURVIVAL/
