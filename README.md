@@ -1,6 +1,6 @@
-# MicroRNA and Gene Expression In Multiple Myeloma
+# Small RNA In Multiple Myeloma
 
-Below is interactive applications for browsing the MicroRNA- and Gene-expression dataset. 
+Below is interactive applications for browsing a 86 sample small RNA sequencing dataset. 
 
 
 ### MicroRNA Expression and clincal parameters in Multiple Myeloma
@@ -12,6 +12,4 @@ https://mjellelab.shinyapps.io/SHINY_ncRNA_CLINICAL/
 ### Survival analysis of microRNAs and other small ncRNAs  in Multiple Myeloma
 https://mjellelab.shinyapps.io/MiRNA-Survival-Myeloma/
 
-### miRNA-mRNA correlation
-https://mjellelab.shinyapps.io/SHINY_MicroRNA_mRNA_Correlation/
 
