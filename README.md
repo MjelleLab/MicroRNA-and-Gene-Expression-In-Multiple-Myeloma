@@ -1,6 +1,7 @@
 # Small RNA In Multiple Myeloma
 
 Below is interactive applications for browsing a 86 sample small RNA sequencing dataset. 
+The processed data for microRNA, other small RNAs and the clincal parameters can be found as separate files above. 
 
 
 ### MicroRNA Expression and clincal parameters in Multiple Myeloma
