@@ -8,6 +8,9 @@ The processed data for microRNA, other small RNAs and the clincal parameters can
 ### MicroRNA Expression and clincal parameters in Multiple Myeloma
 https://mjellelab.shinyapps.io/SHINY_miRNA_CLINICAL/
 
+### SMall ncRNA Expression and clincal parameters in Multiple Myeloma
+http://mjellelab.shinyapps.io/SHINY_ncRNA_CLINICAL
+
 ### Survival analysis of microRNAs and other small ncRNAs  in Multiple Myeloma
 https://mjellelab.shinyapps.io/MiRNA-Survival-Myeloma/
 
